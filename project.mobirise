@@ -63,11 +63,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/fb0.gif",
+              "src": "@PROJECT_PATH@/assets/images/images-261x128.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "http://www.monsterhunterworld.com/de/",
+              "link": "http://www.ign.com/wikis/monster-hunter-world/Weapons",
               "title": "",
               "linkInNewWindow": false
             }
@@ -274,7 +274,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Quellen",
-          "text": "-www.monsterhunterworld.com/de (auch erreichbar über c21)<br>-google.de<br>-deviantart.com(Bilder)",
+          "text": "-www.monsterhunterworld.com/de (auch erreichbar über c21)<br>-google.de<br>-deviantart.com(Bilder)<br>-ign.com",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
