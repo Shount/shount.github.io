@@ -1,0 +1,47 @@
+#dropdown-menu-2btn-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-0 .nav .link,
+#dropdown-menu-2btn-0 .dropdown-item {
+  font-size: 0.8em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-0 .navbar,
+#dropdown-menu-2btn-0 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-0 .dropdown-menu a:hover,
+#dropdown-menu-2btn-0 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-0 .navbar-toggler {
+  color: #ffffff;
+}
+#header4-2 H1 {
+  color: #ffffff;
+}
+#header4-6 P {
+  color: #000000;
+}
+#header4-6 H1 {
+  color: #000000;
+}
+#header4-7 P {
+  color: #41a85f;
+}
+#header4-7 H1 {
+  color: #41a85f;
+}
+#header4-8 P {
+  color: #fac51c;
+}
+#header4-8 H1 {
+  color: #fac51c;
+}
+#header4-a P {
+  text-align: left;
+}
+#header4-a H1 {
+  text-align: left;
+}
